@@ -6,7 +6,6 @@
 
 Interesting talks and projects at FOSDEM 2025
 
-#+CAPTION: FOSDEM Logo
 #+ATTR_HTML: :alt FOSDEM Logo image :title Action! :align center
 [[./1.org][file:img/fosdem-logo.png]]
 
