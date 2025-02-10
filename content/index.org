@@ -10,5 +10,4 @@ Interesting talks and projects at FOSDEM 2025
 #+ATTR_HTML: :alt FOSDEM Logo image :title Action! :align center
 [[./enshittification-definition.org][file:img/fosdem-logo.png]]
 
-[[./enshittification-definition.org][Next]] [[./index.org][Previous]] [[./index.org][Home]]
-
+[[./index.org][Home]] [[./index.org][Previous]] [[./enshittification-definition.org][Next]]

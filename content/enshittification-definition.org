@@ -8,10 +8,10 @@ Cory Doctorow 2022 blog post:
 
 Pattern in which products and services decline in quality over time.
 
-1. Create high-quality, low-cost offerings to attract users.
+1. Create high-quality offerings at a loss to attract users.
 2. Degrade user offerings to make things better for business customers.
 3. Degrade services to users and business customers to maximize profits.
 4. Die and get replaced.
 
-[[./enshittification-examples.org][Next]] [[./index.org][Previous]] [[./index.org][Home]]
+[[./index.org][Home]] [[./index.org][Previous]] [[./enshittification-examples.org][Next]]
 
