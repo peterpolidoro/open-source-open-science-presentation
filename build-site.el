@@ -20,22 +20,29 @@
 (setq org-html-validation-link nil            ;; Don't show validation link
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
+      org-html-head "<link rel=\"stylesheet\" href=\"css/simple.css\" />")
 
 ;; Define the publishing project
 (setq org-publish-project-alist
       (list
        (list "org-site:main"
-             :recursive t
              :base-directory "./content"
-             :publishing-function 'org-html-publish-to-html
+             :base-extension "org"
              :publishing-directory "./public"
+             :recursive t
+             :publishing-function 'org-html-publish-to-html
              :with-title nil
              :with-author nil
              :with-creator nil
              :with-toc nil
              :section-numbers nil
-             :time-stamp-file nil)))
+             :time-stamp-file nil)
+       (list "org-static"
+             :base-directory "./content"
+             :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
+             :publishing-directory "./public"
+             :recursive t
+             :publishing-function 'org-publish-attachment)))
 
 ;; Generate the site output
 (org-publish-all t)
