@@ -1,14 +1,10 @@
-#+title: Org Mode Example Site
+#+title: Enshittification, Deshittification, Science, and Open Source
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
 
-* Overview
+* Enshittification, Deshittification, Science, and Open Source
 
-This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
+Interesting talks and projects at FOSDEM 2025
 
-Here is a link to my [[./Emacs.org][Emacs configuration]].
+[[./1.org][Next]] [[./index.org][Previous]] [[./index.org][Home]]
 
-* Links
-
-- [[https://systemcrafters.net][System Crafters Official Site]]
-- [[https://youtube.com/SystemCrafters][System Crafters on YouTube]]
-- [[https://twitch.com/SystemCrafters][System Crafters on Twitch]]
-- [[https://twitter.com/SystemCrafters][System Crafters on Twitter]]

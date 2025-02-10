@@ -1,2 +1,18 @@
 #+title: Enshittification, Deshittification, Science, and Open Source
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+* Repository Information
+- Name :: shittification-presentation
+- Version :: 0.1.0
+- License :: BSD
+- URL :: https://github.com/peterpolidoro/shittification-presentation
+- Author :: Peter Polidoro
+- Email :: peter@polidoro.io
+- Date :: 2025-02
+
+[[https://peterpolidoro.github.io/shittification-presentation/]]
+
+* Presentation
+
+[[https://peterpolidoro.github.io/shittification-presentation/][Slides]]
 
