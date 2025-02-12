@@ -4,14 +4,13 @@
 
 * Enshittification Definition
 
-Cory Doctorow 2022 blog post:
+Cory Doctorow 2022 blog post: "Social Quitting"
 
 Pattern in which products and services decline in quality over time.
 
-1. Create high-quality offerings at a loss to attract users.
-2. Degrade user offerings to make things better for business customers.
-3. Degrade services to users and business customers to maximize profits.
-4. Die and get replaced.
+1. Companies offer high-quality products at a loss to attract users.
+2. Degrade user offerings to make things better for suppliers and business customers.
+3. Degrade services to users and suppliers to maximize profits for themselves.
 
 [[./index.org][Home]] [[./index.org][Previous]] [[./enshittification-examples.org][Next]]
 
