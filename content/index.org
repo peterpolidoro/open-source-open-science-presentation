@@ -1,8 +1,8 @@
-#+title: Enshittification, Deshittification, Science, and Open Source
+#+title: Open Software Open Science
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Enshittification, Deshittification, Science, and Open Source
+* Open Software Open Science
 
 Interesting talks and projects at FOSDEM 2025
 

@@ -1,4 +1,4 @@
-#+title: Enshittification, Deshittification, Science, and Open Source
+#+title: Open Software Open Science
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
@@ -9,8 +9,8 @@ Cory Doctorow 2022 blog post: "Social Quitting"
 Pattern in which products and services decline in quality over time.
 
 1. Companies offer high-quality products at a loss to attract users.
-2. Degrade user offerings to make things better for suppliers and business customers.
-3. Degrade services to users and suppliers to maximize profits for themselves.
+2. Degrade user offerings to benefit suppliers, advertisers, and business customers.
+3. Degrade quality and support and increase prices to maximize profit.
 
 [[./index.org][Home]] [[./index.org][Previous]] [[./enshittification-examples.org][Next]]
 
