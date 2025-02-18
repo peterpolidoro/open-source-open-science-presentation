@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Switching Cost
+
+- Costs that users incur when they move from one platform or service to another.
+
+- These costs can be monetary, psychological, or time-based.
+
+
+[[./index.org][Home]] [[./expectation-mismatch.org][Previous]] [[./switching-cost.org][Next]]
+

@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Expectation Mismatch
+
+- The primary reason companies exist is to make money.
+
+- Users expect a guarantee of quality, service, and support in exchange for our money.
+
+
+[[./index.org][Home]] [[./hardware-enshittification.org][Previous]] [[./switching-cost.org][Next]]
+

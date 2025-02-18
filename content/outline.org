@@ -17,3 +17,5 @@ software-subscriptions.png
 infrastructure-enshittification.png
 ** hardware-enshittification
 hardware-enshittification.png
+** expectation-mismatch
+** switching-cost
