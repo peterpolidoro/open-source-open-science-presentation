@@ -4,9 +4,9 @@
 
 * Enshittification Examples
 
-#+attr_html: :width 640px
+#+attr_html: :width 1920px
 #+ATTR_HTML: :align center
-[[./enshittification-definition.org][file:img/enshittification-examples.png]]
+[[./reverse-improvement.org][file:img/enshittification-examples.png]]
 
-[[./index.org][Home]] [[./enshittification-definition.org][Previous]] [[./enshittification-examples.org][Next]]
+[[./index.org][Home]] [[./enshittification.org][Previous]] [[./reverse-improvement.org][Next]]
 

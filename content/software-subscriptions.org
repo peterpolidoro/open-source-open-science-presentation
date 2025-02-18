@@ -1,0 +1,12 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Software Subscriptions
+
+#+attr_html: :width 1920px
+#+ATTR_HTML: :align center
+[[./infrastructure-enshittification.org][file:img/software-subscriptions.png]]
+
+[[./index.org][Home]] [[./reverse-improvement.org][Previous]] [[./infrastructure-enshittification.org][Next]]
+

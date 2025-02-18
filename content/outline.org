@@ -1,0 +1,19 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Outline
+
+** index.org
+open-science.png
+** enshittification
+** enshittification-examples
+enshittification-examples.png
+** reverse-improvement
+reverse-improvement.png
+** software-subscriptions
+software-subscriptions.png
+** infrastructure-enshittification
+infrastructure-enshittification.png
+** hardware-enshittification
+hardware-enshittification.png

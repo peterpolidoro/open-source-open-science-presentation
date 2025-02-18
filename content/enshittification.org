@@ -8,9 +8,9 @@ Cory Doctorow 2022 blog post: "Social Quitting"
 
 Pattern in which products and services decline in quality over time.
 
-1. Companies offer high-quality products free or at a loss to attract users.
+1. Companies offer high-quality products at a reduced cost to attract users.
 2. Degrade user offerings to benefit suppliers, advertisers, and business customers.
-3. Degrade quality and support to save money and increase prices to maximize profit.
+3. Quality and support deteriorate and/or prices increase to maximize profit.
 
 [[./index.org][Home]] [[./index.org][Previous]] [[./enshittification-examples.org][Next]]
 

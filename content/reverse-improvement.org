@@ -1,0 +1,12 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Reverse Improvement
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./software-subscriptions.org][file:img/reverse-improvement.png]]
+
+[[./index.org][Home]] [[./enshittification-examples.org][Previous]] [[./software-subscriptions.org][Next]]
+

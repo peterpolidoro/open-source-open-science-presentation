@@ -1,0 +1,12 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Hardware Enshittification
+
+#+attr_html: :width 1920px
+#+ATTR_HTML: :align center
+[[./hardware-enshittification.org][file:img/hardware-enshittification.png]]
+
+[[./index.org][Home]] [[./infrastructure-enshittification.org][Previous]] [[./hardware-enshittification.org][Next]]
+
