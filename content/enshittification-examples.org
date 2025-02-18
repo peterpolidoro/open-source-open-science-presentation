@@ -1,0 +1,12 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Enshittification Examples
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./enshittification-definition.org][file:img/enshittification-examples.png]]
+
+[[./index.org][Home]] [[./enshittification-definition.org][Previous]] [[./enshittification-examples.org][Next]]
+

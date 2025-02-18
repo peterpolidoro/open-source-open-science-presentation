@@ -1,13 +1,11 @@
-#+title: Open Software Open Science
+#+title: Open Source Open Science
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Open Software Open Science
-
-Interesting talks and projects at FOSDEM 2025
+* Open Source Open Science
 
 #+attr_html: :width 640px
-#+ATTR_HTML: :alt FOSDEM Logo image :title Action! :align center
-[[./enshittification-definition.org][file:img/fosdem-logo.png]]
+#+ATTR_HTML: :align center
+[[./enshittification.org][file:img/open-science.png]]
 
-[[./index.org][Home]] [[./index.org][Previous]] [[./enshittification-definition.org][Next]]
+[[./index.org][Home]] [[./index.org][Previous]] [[./enshittification.org][Next]]
