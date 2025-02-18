@@ -4,7 +4,7 @@
 
 * Software Subscriptions
 
-#+attr_html: :width 1920px
+#+attr_html: :width 640px
 #+ATTR_HTML: :align center
 [[./infrastructure-enshittification.org][file:img/software-subscriptions.png]]
 

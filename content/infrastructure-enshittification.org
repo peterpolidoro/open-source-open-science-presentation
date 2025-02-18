@@ -4,7 +4,7 @@
 
 * Infrastructure Enshittification
 
-#+attr_html: :width 1920px
+#+attr_html: :width 640px
 #+ATTR_HTML: :align center
 [[./hardware-enshittification.org][file:img/infrastructure-enshittification.png]]
 
