@@ -6,7 +6,7 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./software-subscriptions.org][file:img/reverse-improvement.png]]
+[[./software-enshittification.org][file:img/reverse-improvement.png]]
 
-[[./index.org][Home]] [[./enshittification-examples.org][Previous]] [[./software-subscriptions.org][Next]]
+[[./index.org][Home]] [[./enshittification-examples.org][Previous]] [[./software-enshittification.org][Next]]
 

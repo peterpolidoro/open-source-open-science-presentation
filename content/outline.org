@@ -11,8 +11,7 @@ open-science.png
 enshittification-examples.png
 ** reverse-improvement
 reverse-improvement.png
-** software-subscriptions
-software-subscriptions.png
+** software-enshittification
 ** infrastructure-enshittification
 infrastructure-enshittification.png
 ** hardware-enshittification

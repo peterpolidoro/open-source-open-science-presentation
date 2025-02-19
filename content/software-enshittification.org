@@ -4,9 +4,12 @@
 
 * Software Enshittification
 
-#+attr_html: :width 640px
-#+ATTR_HTML: :align center
-[[./hardware-enshittification.org][file:img/hardware-enshittification.png]]
+- software subscriptions: rent not buy
+- price increases
+- bloat and decay
+- planned obsolescence
+- neglect and unplanned obsolescence
+- paywalling features
 
-[[./index.org][Home]] [[./reverse-improvement.org][Previous]] [[./hardware-enshittification.org][Next]]
+[[./index.org][Home]] [[./reverse-improvement.org][Previous]] [[./infrastructure-enshittification.org][Next]]
 
