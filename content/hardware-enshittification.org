@@ -6,7 +6,7 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./expectation-mismatch.org][file:img/hardware-enshittification.png]]
+[[./infrastructure-enshittification.org][file:img/hardware-enshittification.png]]
 
-[[./index.org][Home]] [[./infrastructure-enshittification.org][Previous]] [[./expectation-mismatch.org][Next]]
+[[./index.org][Home]] [[./shrinkflation.org][Previous]] [[./infrastructure-enshittification.org][Next]]
 

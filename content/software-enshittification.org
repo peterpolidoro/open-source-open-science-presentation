@@ -2,14 +2,16 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Software Enshittification
+* Proprietary Software Enshittification
 
-- software subscriptions: rent not buy
+- software subscriptions
 - price increases
-- bloat and decay
+- bloat
 - planned obsolescence
-- neglect and unplanned obsolescence
 - paywalling features
+- neglect and unplanned obsolescence
+- data trapped or lost in proprietary formats, in applications, or on offsite servers
+- companies changing owners, product lines, or priorities
 
-[[./index.org][Home]] [[./reverse-improvement.org][Previous]] [[./infrastructure-enshittification.org][Next]]
+[[./index.org][Home]] [[./infrastructure-enshittification.org][Previous]] [[./expectation-mismatch.org][Next]]
 

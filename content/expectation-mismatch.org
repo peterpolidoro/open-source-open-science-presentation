@@ -4,10 +4,10 @@
 
 * Expectation Mismatch
 
-- The primary reason companies exist is to make money.
+- Companies are expected to make money, that is the primary reason they exist.
 
 - Users expect a guarantee of quality, service, and support in exchange for our money.
 
 
-[[./index.org][Home]] [[./hardware-enshittification.org][Previous]] [[./switching-cost.org][Next]]
+[[./index.org][Home]] [[./software-enshittification.org][Previous]] [[./switching-costs.org][Next]]
 

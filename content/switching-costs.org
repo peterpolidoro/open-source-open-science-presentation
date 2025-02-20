@@ -1,0 +1,16 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Switching Costs
+
+Costs users incur when moving from one platform, product, or service to another.
+
+- No alternatives.
+- Procedural: Time and effort to learn, setup, and evaluate something new.
+- Financial: Sunk costs and investments in current solutions.
+- Societal: Friends, collaborators, and roll models.
+
+
+[[./index.org][Home]] [[./expectation-mismatch.org][Previous]] [[./nefarious-switching-costs.org][Next]]
+

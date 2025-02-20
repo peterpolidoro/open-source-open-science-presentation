@@ -11,10 +11,16 @@ open-science.png
 enshittification-examples.png
 ** reverse-improvement
 reverse-improvement.png
-** software-enshittification
-** infrastructure-enshittification
-infrastructure-enshittification.png
+** shrinkflation
+shrinkflation.png
 ** hardware-enshittification
 hardware-enshittification.png
+** infrastructure-enshittification
+infrastructure-enshittification.png
+** software-enshittification
 ** expectation-mismatch
-** switching-cost
+** switching-costs
+** nefarious-switching-costs
+** science-switching-costs
+** xkcd
+xkcd.png

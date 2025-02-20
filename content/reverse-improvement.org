@@ -6,7 +6,7 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./software-enshittification.org][file:img/reverse-improvement.png]]
+[[./shrinkflation.org][file:img/reverse-improvement.png]]
 
-[[./index.org][Home]] [[./enshittification-examples.org][Previous]] [[./software-enshittification.org][Next]]
+[[./index.org][Home]] [[./enshittification-examples.org][Previous]] [[./shrinkflation.org][Next]]
 

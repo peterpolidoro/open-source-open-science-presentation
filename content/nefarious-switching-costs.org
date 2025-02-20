@@ -1,0 +1,19 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Nefarious Switching Costs
+
+Actively increasing switching costs in order to maintain monopolies.
+
+- Proprietary formats that prevent alternatives and competition.
+- Embrace, extend, extinguish
+  - embrace an open standard
+  - extend the standard with proprietary capabilities
+  - use the differerences to disadvantage competitors
+- Restrict users access to their own data.
+- Hiding true costs with freemium versions and educational discounts.
+
+
+[[./index.org][Home]] [[./switching-costs.org][Previous]] [[./science-switching-costs.org][Next]]
+

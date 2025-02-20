@@ -6,7 +6,7 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./hardware-enshittification.org][file:img/infrastructure-enshittification.png]]
+[[./software-enshittification.org][file:img/infrastructure-enshittification.png]]
 
-[[./index.org][Home]] [[./software-subscriptions.org][Previous]] [[./hardware-enshittification.org][Next]]
+[[./index.org][Home]] [[./hardware-enshittification.org][Previous]] [[./software-enshittification.org][Next]]
 
