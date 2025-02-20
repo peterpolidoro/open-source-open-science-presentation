@@ -1,0 +1,17 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Deshittification
+
+- Open source projects often start off bad.
+  - low quality
+  - poor documentation
+  - poor publicity
+
+- Quality improves if and only if a community forms around the project.
+  - Recall first stage of enshittification:
+    - Offer quality products at a reduced cost to ATTRACT USERS.
+
+[[./index.org][Home]] [[./developer-disadvantages.org][Previous]] [[./network-effect.org][Next]]
+

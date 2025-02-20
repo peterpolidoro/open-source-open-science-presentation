@@ -1,0 +1,12 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Open Source User Advantages
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./user-disadvantages.org][file:img/user-advantages.png]]
+
+[[./index.org][Home]] [[./foss.org][Previous]] [[./user-disadvantages.org][Next]]
+

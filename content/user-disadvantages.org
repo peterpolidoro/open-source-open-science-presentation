@@ -1,0 +1,12 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Open Source User Disdvantages
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./developer-disadvantages.org][file:img/user-disadvantages.png]]
+
+[[./index.org][Home]] [[./user-advantages.org][Previous]] [[./developer-disadvantages.org][Next]]
+

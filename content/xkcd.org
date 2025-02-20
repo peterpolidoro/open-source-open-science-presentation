@@ -6,7 +6,7 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./hardware-enshittification.org][file:img/xkcd.png]]
+[[./foss.org][file:img/xkcd.png]]
 
-[[./index.org][Home]] [[./science-switching-costs.org][Previous]] [[./xkcd.org][Next]]
+[[./index.org][Home]] [[./science-switching-costs.org][Previous]] [[./foss.org][Next]]
 

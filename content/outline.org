@@ -24,3 +24,9 @@ infrastructure-enshittification.png
 ** science-switching-costs
 ** xkcd
 xkcd.png
+** foss
+** user-advantages
+** user-disadvantages
+** developer-disadvantages
+** deshittification
+** network-effect
