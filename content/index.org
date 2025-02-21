@@ -4,7 +4,7 @@
 
 * Open Source Open Science
 
-#+attr_html: :width 1280px
+#+attr_html: :width 640px
 #+ATTR_HTML: :align center
 [[./enshittification.org][file:img/open-science.png]]
 
