@@ -10,7 +10,7 @@
 - planned obsolescence
 - paywalling features
 - neglect and unplanned obsolescence
-- data trapped or lost in proprietary formats, in applications, or on offsite servers
+- data trapped in proprietary formats, in applications, or on offsite servers
 - companies changing owners, product lines, or priorities
 
 [[./index.org][Home]] [[./infrastructure-enshittification.org][Previous]] [[./expectation-mismatch.org][Next]]

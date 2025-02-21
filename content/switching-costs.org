@@ -9,7 +9,7 @@ Costs users incur when moving from one platform, product, or service to another.
 - No alternatives: Cost to create or improve options.
 - Procedural: Time and effort to learn, setup, and evaluate something new.
 - Financial: Sunk costs and investments in current solutions.
-- Societal: Friends, collaborators, and roll models would need to move too.
+- Societal: Friends and collaborators would need to move too.
 
 
 [[./index.org][Home]] [[./expectation-mismatch.org][Previous]] [[./nefarious-switching-costs.org][Next]]

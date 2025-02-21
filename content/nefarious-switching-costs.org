@@ -10,7 +10,7 @@ Actively increasing switching costs in order to maintain monopolies.
 - Embrace, extend, extinguish
   - embrace an open standard
   - extend the standard with proprietary capabilities
-  - use the differerences to disadvantage competitors
+  - use the differences to disadvantage competitors
 - Restrict users access to their own data.
 - Hiding true costs with freemium versions and educational discounts.
 
