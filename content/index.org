@@ -1,10 +1,11 @@
 #+title: Open Source Open Science
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
+#+HTML_HEAD_EXTRA: <style>*{font-size: x-large;}</style>
 
 * Open Source Open Science
 
-#+attr_html: :width 640px
+#+attr_html: :width 1920px
 #+ATTR_HTML: :align center
 [[./enshittification.org][file:img/open-science.png]]
 
