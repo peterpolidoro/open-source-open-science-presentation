@@ -36,3 +36,6 @@ network-effect.png
 ** contributors-example
 contributors-example.png
 ** fosdem
+fosdem.png
+** software-duality
+software-duality.png

@@ -8,7 +8,7 @@
   - low quality
   - poor documentation
   - poor publicity
-
+- Projects either die, lie dormant or barely used, or improve.
 - Quality improves if and only if a community forms around the project.
   - Recall first stage of enshittification:
     - Offer quality products for free or at a reduced cost to ATTRACT USERS.

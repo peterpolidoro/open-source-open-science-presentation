@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Software Duality
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./cad-duality.org][file:img/software-duality.png]]
+
+
+[[./index.org][Home]] [[./fosdem.org][Previous]] [[./cad-duality.org][Next]]
+

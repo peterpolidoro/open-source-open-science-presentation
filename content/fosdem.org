@@ -2,12 +2,12 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Contributors Example
+* FOSDEM
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./contributors.org][file:img/fosdem.png]]
+[[./dual-software.org][file:img/fosdem.png]]
 
 
-[[./index.org][Home]] [[./contributors-example.org][Previous]] [[./fosdem.org][Next]]
+[[./index.org][Home]] [[./contributors-example.org][Previous]] [[./dual-software.org][Next]]
 
