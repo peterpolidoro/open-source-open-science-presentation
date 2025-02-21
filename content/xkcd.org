@@ -8,5 +8,5 @@
 #+ATTR_HTML: :align center
 [[./foss.org][file:img/xkcd.png]]
 
-[[./index.org][Home]] [[./science-switching-costs.org][Previous]] [[./foss.org][Next]]
+[[./index.org][Home]] [[./science-switching-costs.org][Previous]] [[./proprietary-recommendations.org][Next]]
 

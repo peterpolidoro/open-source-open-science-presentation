@@ -1,0 +1,17 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Proprietary Recommendations
+
+- Almost impossible not to use at least some proprietary software.
+- Be wary of high switching costs.
+- Avoid proprietary file formats and exchange protocols whenever possible.
+- Keep copies of your data in your control.
+- Consider diverse collaborators across long ranges of space and time.
+- Discover alternatives so you always have a way out if necessary.
+- If a plaform gets too shitty, pay the switching costs and move!
+
+
+[[./index.org][Home]] [[./xkcd.org][Previous]] [[./foss.org][Next]]
+

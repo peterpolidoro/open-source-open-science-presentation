@@ -11,7 +11,7 @@
 
 - Quality improves if and only if a community forms around the project.
   - Recall first stage of enshittification:
-    - Offer quality products at a reduced cost to ATTRACT USERS.
+    - Offer quality products for free or at a reduced cost to ATTRACT USERS.
 
 [[./index.org][Home]] [[./developer-disadvantages.org][Previous]] [[./network-effect.org][Next]]
 

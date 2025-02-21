@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Network Effect
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./contributors.org][file:img/network-effect.png]]
+
+
+[[./index.org][Home]] [[./deshittification.org][Previous]] [[./contributors.org][Next]]
+

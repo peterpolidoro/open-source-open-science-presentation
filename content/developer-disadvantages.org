@@ -4,11 +4,11 @@
 
 * Open Source Developer Disdvantages
 
-- No profit, good for avoiding enshittification, but difficult for developers
-- Unpaid, but passionate volunteers, sometimes ungrateful users
-- Burnout and stress, users expect unlimited development and support for free
-- Projects may die from lack of support
-- Companies use and profit on free work of others, often without contributing back
+- No profit, often requires other financial models like donations and goodwill.
+- Unpaid, but passionate volunteers, sometimes ungrateful users.
+- Burnout and stress, users expect unlimited development and support for free.
+- Projects may die from lack of support.
+- Companies use and profit on free work of others, often without contributing back.
 
 [[./index.org][Home]] [[./user-disadvantages.org][Previous]] [[./deshittification.org][Next]]
 

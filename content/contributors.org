@@ -1,0 +1,23 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Contributors
+
+- FOSS needs network effect of users and contributors.
+- Users can and should be contributors.
+- Contributions may be:
+  - code
+  - documentation and translation
+  - asking and answering questions of forums
+  - sending developers useful suggestions
+  - positive attitude for improving quality rather than denegrating shortcomings
+  - financial donations
+  - attending talks and conferences and learning about FOSS alternatives
+  - giving talks, writing, making videos, spreading publicity about interesting
+    projects
+  - friendly collaborations with smart passionate people
+  - being inclusive of other options and alternatives rather than demanding conformity
+
+[[./index.org][Home]] [[./network-effect.org][Previous]] [[./contributors.org][Next]]
+
