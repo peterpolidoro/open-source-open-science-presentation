@@ -8,7 +8,7 @@ body {
   overflow: hidden;
   padding: 2rem;
   color: white;
-  font: 2.6rem Inconsolata, monospace;
+  font: 1.3rem Inconsolata, monospace;
   text-shadow: 0 0 5px #C8C8C8;
   &::after {
     content: "";
