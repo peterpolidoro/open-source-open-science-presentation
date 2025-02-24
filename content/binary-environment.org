@@ -6,8 +6,8 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./transformation-environment.org][file:img/binary-environment.png]]
+[[./build-environment.org][file:img/binary-environment.png]]
 
 
-[[./index.org][Home]] [[./graph-kernel.org][Previous]] [[./transformation-environment.org][Next]]
+[[./index.org][Home]] [[./graph-kernel.org][Previous]] [[./build-environment.org][Next]]
 

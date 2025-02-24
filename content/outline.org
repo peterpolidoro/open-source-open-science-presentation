@@ -14,8 +14,6 @@ cad-duality.png
 text-transformation.png
 ** cad-transformation
 cad-transformation.png
-** text
-text.png
 ** runtime-environment
 runtime-environment.png
 ** runtime-graph
@@ -24,11 +22,20 @@ runtime-graph.png
 graph-kernel.png
 ** binary-environment
 binary-environment.png
-** transformation-environment
-transformation-environment.png
+** build-environment
+build-environment.png
 ** development-environment
 development-environment.png
+** documentation-environment
+documentation-environment.png
+** infrastructure-environment
+infrastructure-environment.png
+** complication
+complication.png
 
+
+** text
+text.png
 
 ** enshittification
 ** enshittification-examples

@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Infrastructure Environment
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./.org][file:img/infrastructure-environment.png]]
+
+
+[[./index.org][Home]] [[./documentation-environment.org][Previous]] [[./infrastructure-environment.org][Next]]
+
