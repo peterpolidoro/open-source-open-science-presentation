@@ -6,6 +6,18 @@
 
 ** index.org
 open-science.png
+** software-duality
+software-duality.png
+** cad-duality
+cad-duality.png
+** transformation
+transformation.png
+** runtime-environment
+runtime-environment.png
+** runtime-graph
+runtime-graph.png
+
+
 ** enshittification
 ** enshittification-examples
 enshittification-examples.png
@@ -37,5 +49,3 @@ network-effect.png
 contributors-example.png
 ** fosdem
 fosdem.png
-** software-duality
-software-duality.png

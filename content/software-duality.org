@@ -2,12 +2,12 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Software Duality
+* Dual Nature of Software
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
 [[./cad-duality.org][file:img/software-duality.png]]
 
 
-[[./index.org][Home]] [[./fosdem.org][Previous]] [[./cad-duality.org][Next]]
+[[./index.org][Home]] [[./index.org][Previous]] [[./cad-duality.org][Next]]
 

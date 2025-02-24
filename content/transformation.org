@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Transformation from Human Language to Machine Language
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./runtime-environment.org][file:img/transformation.png]]
+
+
+[[./index.org][Home]] [[./cad-duality.org][Previous]] [[./runtime-environment.org][Next]]
+

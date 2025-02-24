@@ -6,6 +6,6 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./enshittification.org][file:img/open-science.png]]
+[[./software-duality.org][file:img/open-science.png]]
 
-[[./index.org][Home]] [[./index.org][Previous]] [[./enshittification.org][Next]]
+[[./index.org][Home]] [[./index.org][Previous]] [[./software-duality.org][Next]]

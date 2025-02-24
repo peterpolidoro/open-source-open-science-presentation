@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Dual Nature of CAD Software
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./transformation.org][file:img/cad-duality.png]]
+
+
+[[./index.org][Home]] [[./software-duality.org][Previous]] [[./transformation.org][Next]]
+
