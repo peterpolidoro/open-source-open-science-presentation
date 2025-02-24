@@ -16,6 +16,8 @@ transformation.png
 runtime-environment.png
 ** runtime-graph
 runtime-graph.png
+** graph-kernel
+graph-kernel.png
 
 
 ** enshittification
