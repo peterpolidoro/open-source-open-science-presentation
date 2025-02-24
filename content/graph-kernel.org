@@ -6,8 +6,8 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./runtime-graph.org][file:img/graph-kernel.png]]
+[[./binary-environment.org][file:img/graph-kernel.png]]
 
 
-[[./index.org][Home]] [[./runtime-graph.org][Previous]] [[./runtime-graph.org][Next]]
+[[./index.org][Home]] [[./runtime-graph.org][Previous]] [[./binary-environment.org][Next]]
 

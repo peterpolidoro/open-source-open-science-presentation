@@ -10,14 +10,24 @@ open-science.png
 software-duality.png
 ** cad-duality
 cad-duality.png
-** transformation
-transformation.png
+** text-transformation
+text-transformation.png
+** cad-transformation
+cad-transformation.png
+** text
+text.png
 ** runtime-environment
 runtime-environment.png
 ** runtime-graph
 runtime-graph.png
 ** graph-kernel
 graph-kernel.png
+** binary-environment
+binary-environment.png
+** transformation-environment
+transformation-environment.png
+** development-environment
+development-environment.png
 
 
 ** enshittification

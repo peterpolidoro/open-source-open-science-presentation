@@ -6,8 +6,8 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./runtime-environment.org][file:img/transformation.png]]
+[[./text.org][file:img/cad-transformation.png]]
 
 
-[[./index.org][Home]] [[./cad-duality.org][Previous]] [[./runtime-environment.org][Next]]
+[[./index.org][Home]] [[./text-transformation.org][Previous]] [[./text.org][Next]]
 

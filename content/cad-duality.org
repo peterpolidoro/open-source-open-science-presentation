@@ -6,8 +6,8 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./transformation.org][file:img/cad-duality.png]]
+[[./text-transformation.org][file:img/cad-duality.png]]
 
 
-[[./index.org][Home]] [[./software-duality.org][Previous]] [[./transformation.org][Next]]
+[[./index.org][Home]] [[./software-duality.org][Previous]] [[./text-transformation.org][Next]]
 
