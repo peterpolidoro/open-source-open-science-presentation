@@ -2,7 +2,7 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Runtime Environment as a Directed Acyclic Graph
+* Runtime Environment Contains a Dependency Graph
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center

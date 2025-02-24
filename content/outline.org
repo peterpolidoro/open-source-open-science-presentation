@@ -14,6 +14,8 @@ cad-duality.png
 text-transformation.png
 ** cad-transformation
 cad-transformation.png
+** text
+text.png
 ** runtime-environment
 runtime-environment.png
 ** runtime-graph
@@ -33,9 +35,6 @@ infrastructure-environment.png
 ** complication
 complication.png
 
-
-** text
-text.png
 
 ** enshittification
 ** enshittification-examples
