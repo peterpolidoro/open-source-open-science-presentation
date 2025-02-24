@@ -2,7 +2,7 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Transformation from Human Language to Machine Language
+* Human Language to Machine Language
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
