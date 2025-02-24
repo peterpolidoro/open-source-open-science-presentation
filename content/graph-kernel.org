@@ -2,7 +2,7 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Runtime Environment
+* Runtime Environment Plus Kernel and Hardware
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center

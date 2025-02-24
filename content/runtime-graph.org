@@ -6,7 +6,7 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./graph-kernal.org][file:img/runtime-graph.png]]
+[[./graph-kernel.org][file:img/runtime-graph.png]]
 
 
 [[./index.org][Home]] [[./runtime-environment.org][Previous]] [[./graph-kernel.org][Next]]
