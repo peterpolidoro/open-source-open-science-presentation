@@ -1,0 +1,10 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* and so much more...
+
+Thank you!
+
+[[./index.org][Home]] [[./fpga.org][Previous]] [[./index.org][Next]]
+

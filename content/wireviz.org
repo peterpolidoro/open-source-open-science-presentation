@@ -2,12 +2,12 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Santa
+* wireviz
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./heritage-guix.org][file:img/santa.png]]
+[[./freecad.org][file:img/wireviz.png]]
 
 
-[[./index.org][Home]] [[./community.org][Previous]] [[./heritage-guix.org][Next]]
+[[./index.org][Home]] [[./codeberg.org][Previous]] [[./freecad.org][Next]]
 

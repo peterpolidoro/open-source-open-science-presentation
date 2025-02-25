@@ -2,12 +2,12 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Santa
+* KiCad
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./heritage-guix.org][file:img/santa.png]]
+[[./spritely-goblins.org][file:img/kicad.png]]
 
 
-[[./index.org][Home]] [[./community.org][Previous]] [[./heritage-guix.org][Next]]
+[[./index.org][Home]] [[./freecad.org][Previous]] [[./spritely-goblins.org][Next]]
 

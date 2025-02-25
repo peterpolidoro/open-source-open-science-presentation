@@ -83,8 +83,26 @@ fosdem.png
 complicated.png
 ** santa
 santa.png
-** software-heritage
-software-heritage.png
+** heritage-guix
+heritage-guix.png
+** guix
+guix.png
+** codeberg
+codeberg.png
+** wireviz
+wireviz.png
+** freecad
+freecad.png
+** kicad
+kicad.png
+** spritely-goblins
+spritely-goblins.png
+** zenoh
+zenoh.png
+** fpga
+fpga.png
+** more
+more.png
 
 
 
