@@ -8,5 +8,5 @@
 #+ATTR_HTML: :align center
 [[./user-disadvantages.org][file:img/user-advantages.png]]
 
-[[./index.org][Home]] [[./foss.org][Previous]] [[./user-disadvantages.org][Next]]
+[[./index.org][Home]] [[./proprietary-recommendations.org][Previous]] [[./user-disadvantages.org][Next]]
 

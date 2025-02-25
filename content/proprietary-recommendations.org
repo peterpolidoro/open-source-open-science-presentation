@@ -13,5 +13,5 @@
 - If a platform gets too shitty, pay the switching costs and move!
 
 
-[[./index.org][Home]] [[./xkcd.org][Previous]] [[./foss.org][Next]]
+[[./index.org][Home]] [[./xkcd.org][Previous]] [[./deshittification.org][Next]]
 

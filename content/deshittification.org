@@ -13,5 +13,5 @@
   - Recall first stage of enshittification:
     - Offer quality products for free or at a reduced cost to ATTRACT USERS.
 
-[[./index.org][Home]] [[./developer-disadvantages.org][Previous]] [[./network-effect.org][Next]]
+[[./index.org][Home]] [[./proprietary-recommendations.org][Previous]] [[./network-effect.org][Next]]
 
