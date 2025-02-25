@@ -2,7 +2,7 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Documentation Environment
+* Documentation and Metadata Environment
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center

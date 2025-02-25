@@ -6,8 +6,8 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./build-environment.org][file:img/binary-environment.png]]
+[[./dockerfile.org][file:img/binary-environment.png]]
 
 
-[[./index.org][Home]] [[./graph-kernel.org][Previous]] [[./build-environment.org][Next]]
+[[./index.org][Home]] [[./graph-kernel.org][Previous]] [[./dockerfile.org][Next]]
 

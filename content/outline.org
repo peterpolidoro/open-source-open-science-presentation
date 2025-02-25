@@ -16,6 +16,8 @@ text-transformation.png
 cad-transformation.png
 ** text
 text.png
+** deployment
+deployment.png
 ** share-machine
 share-machine.png
 ** share-source
@@ -29,6 +31,8 @@ runtime-graph.png
 graph-kernel.png
 ** binary-environment
 binary-environment.png
+** dockerfile
+dockerfile.png
 ** build-environment
 build-environment.png
 ** development-environment

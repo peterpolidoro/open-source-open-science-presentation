@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Deployment
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./share-machine.org][file:img/deployment.png]]
+
+
+[[./index.org][Home]] [[./text.org][Previous]] [[./share-machine.org][Next]]
+

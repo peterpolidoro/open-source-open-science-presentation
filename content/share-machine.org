@@ -9,5 +9,5 @@
 [[./share-source.org][file:img/share-machine.png]]
 
 
-[[./index.org][Home]] [[./cad-transformation.org][Previous]] [[./share-source.org][Next]]
+[[./index.org][Home]] [[./deployment.org][Previous]] [[./share-source.org][Next]]
 

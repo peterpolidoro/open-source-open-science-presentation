@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Dockerfile
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./build-environment.org][file:img/dockerfile.png]]
+
+
+[[./index.org][Home]] [[./binary-environment.org][Previous]] [[./build-environment.org][Next]]
+

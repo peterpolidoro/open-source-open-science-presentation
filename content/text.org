@@ -2,12 +2,12 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Text is a Wonderful Human Language
+* Text is a Wonderful Human Language Format
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./share-machine.org][file:img/text.png]]
+[[./deployment.org][file:img/text.png]]
 
 
-[[./index.org][Home]] [[./cad-transformation.org][Previous]] [[./share-machine.org][Next]]
+[[./index.org][Home]] [[./cad-transformation.org][Previous]] [[./deployment.org][Next]]
 
