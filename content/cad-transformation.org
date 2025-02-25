@@ -6,8 +6,8 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./text.org][file:img/cad-transformation.png]]
+[[./share-machine.org][file:img/cad-transformation.png]]
 
 
-[[./index.org][Home]] [[./text-transformation.org][Previous]] [[./text.org][Next]]
+[[./index.org][Home]] [[./text-transformation.org][Previous]] [[./share-machine.org][Next]]
 
