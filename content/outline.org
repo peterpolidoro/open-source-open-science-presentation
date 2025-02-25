@@ -79,5 +79,12 @@ network-effect.png
 contributors-example.png
 ** fosdem
 fosdem.png
+** community
+complicated.png
+** santa
+santa.png
+** software-heritage
+software-heritage.png
+
 
 

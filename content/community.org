@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Community
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./santa.org][file:img/complicated.png]]
+
+
+[[./index.org][Home]] [[./fosdem.org][Previous]] [[./santa.org][Next]]
+

@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Santa
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./software-heritage.org][file:img/santa.png]]
+
+
+[[./index.org][Home]] [[./community.org][Previous]] [[./software-heritage.org][Next]]
+
