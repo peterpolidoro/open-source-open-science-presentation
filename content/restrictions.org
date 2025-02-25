@@ -2,12 +2,12 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Sharing Source Files
+* Restrictions
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./foss.org][file:img/share-source.png]]
+[[./not-free.org][file:img/restrictions.png]]
 
 
-[[./index.org][Home]] [[./share-machine.org][Previous]] [[./foss.org][Next]]
+[[./index.org][Home]] [[./outsource.org][Previous]] [[./not-free.org][Next]]
 

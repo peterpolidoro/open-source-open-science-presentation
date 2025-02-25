@@ -6,8 +6,8 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./runtime-environment.org][file:img/text.png]]
+[[./share-machine.org][file:img/text.png]]
 
 
-[[./index.org][Home]] [[./cad-transformation.org][Previous]] [[./runtime-environment.org][Next]]
+[[./index.org][Home]] [[./cad-transformation.org][Previous]] [[./share-machine.org][Next]]
 

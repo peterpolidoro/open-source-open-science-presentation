@@ -14,10 +14,13 @@ cad-duality.png
 text-transformation.png
 ** cad-transformation
 cad-transformation.png
+** text
+text.png
 ** share-machine
 share-machine.png
 ** share-source
 share-source.png
+** foss
 ** runtime-environment
 runtime-environment.png
 ** runtime-graph
@@ -36,10 +39,12 @@ documentation-environment.png
 infrastructure-environment.png
 ** complicated
 complicated.png
-
-
-** text
-text.png
+** outsource
+outsource.png
+** restrictions
+restrictions.png
+** not-free
+not-free.png
 ** enshittification
 ** enshittification-examples
 enshittification-examples.png
@@ -59,7 +64,6 @@ infrastructure-enshittification.png
 ** xkcd
 xkcd.png
 ** proprietary-recommendations
-** foss
 ** user-advantages
 ** user-disadvantages
 ** developer-disadvantages

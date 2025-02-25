@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Open Source, but Not Free
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./enshittification.org][file:img/not-free.png]]
+
+
+[[./index.org][Home]] [[./restrictions.org][Previous]] [[./enshittification.org][Next]]
+

@@ -2,7 +2,7 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Binary Environment
+* Runtime Environment (e.g. Docker image)
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center

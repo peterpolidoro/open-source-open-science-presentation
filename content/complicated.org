@@ -6,8 +6,8 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./complicated.org][file:img/complicated.png]]
+[[./outsource.org][file:img/complicated.png]]
 
 
-[[./index.org][Home]] [[./infrastructure-environment.org][Previous]] [[./complicated.org][Next]]
+[[./index.org][Home]] [[./infrastructure-environment.org][Previous]] [[./outsource.org][Next]]
 

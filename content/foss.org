@@ -12,5 +12,5 @@
   this, you can give the whole community a chance to benefit from your changes.
 
 
-[[./index.org][Home]] [[./proprietary-recommendations.org][Previous]] [[./user-advantages.org][Next]]
+[[./index.org][Home]] [[./share-source.org][Previous]] [[./runtime-environment.org][Next]]
 

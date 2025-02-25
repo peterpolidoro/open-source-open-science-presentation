@@ -14,5 +14,5 @@ Pattern in which products and services decline in quality over time.
    customers.
 3. Quality and support deteriorate and/or prices increase to maximize profit.
 
-[[./index.org][Home]] [[./index.org][Previous]] [[./enshittification-examples.org][Next]]
+[[./index.org][Home]] [[./not-free.org][Previous]] [[./enshittification-examples.org][Next]]
 
