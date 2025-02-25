@@ -34,8 +34,8 @@ development-environment.png
 documentation-environment.png
 ** infrastructure-environment
 infrastructure-environment.png
-** complication
-complication.png
+** complicated
+complicated.png
 
 
 ** text

@@ -1,0 +1,13 @@
+#+title: Open Source Open Science
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peter@polidoro.io
+
+* Complicated
+
+#+attr_html: :width 640px
+#+ATTR_HTML: :align center
+[[./complicated.org][file:img/complicated.png]]
+
+
+[[./index.org][Home]] [[./infrastructure-environment.org][Previous]] [[./complicated.org][Next]]
+
