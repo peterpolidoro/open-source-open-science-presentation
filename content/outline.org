@@ -68,6 +68,9 @@ infrastructure-enshittification.png
 ** xkcd
 xkcd.png
 ** proprietary-recommendations
+** user-advantages
+** user-disadvantages
+** developer-disadvantages
 ** deshittification
 ** network-effect
 network-effect.png
@@ -78,6 +81,3 @@ contributors-example.png
 fosdem.png
 
 
-** user-advantages
-** user-disadvantages
-** developer-disadvantages
