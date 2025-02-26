@@ -5,7 +5,7 @@
 * High Switching Costs are Bad for Science!
 
 Scientific data, software, and hardware should be:
-- accessible and exist on time scales greater than companies
+- accessible and exist on time scales greater than companies and government politics
 - reproducible years later and by people and organizations without Howard Hughes level resources
 - innovated upon without starting from scratch every time
 - transparent and controllable to reduce unknowns

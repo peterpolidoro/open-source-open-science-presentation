@@ -6,8 +6,8 @@
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
-[[./dual-software.org][file:img/fosdem.png]]
+[[./santa.org][file:img/fosdem.png]]
 
 
-[[./index.org][Home]] [[./contributors-example.org][Previous]] [[./dual-software.org][Next]]
+[[./index.org][Home]] [[./contributors-example.org][Previous]] [[./santa.org][Next]]
 

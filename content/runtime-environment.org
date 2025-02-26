@@ -9,5 +9,5 @@
 [[./runtime-graph.org][file:img/runtime-environment.png]]
 
 
-[[./index.org][Home]] [[./cad-transformation.org][Previous]] [[./runtime-graph.org][Next]]
+[[./index.org][Home]] [[./foss.org][Previous]] [[./runtime-graph.org][Next]]
 
