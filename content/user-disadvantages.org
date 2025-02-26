@@ -2,7 +2,7 @@
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peter@polidoro.io
 
-* Open Source User Disdvantages
+* Open Source User Disadvantages
 
 #+attr_html: :width 640px
 #+ATTR_HTML: :align center
